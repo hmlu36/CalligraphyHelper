@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CalligraphyHelper/static/css/main.2cce8147.chunk.css",
+    "main.js": "/CalligraphyHelper/static/js/main.2b920a4c.chunk.js",
+    "main.js.map": "/CalligraphyHelper/static/js/main.2b920a4c.chunk.js.map",
+    "runtime~main.js": "/CalligraphyHelper/static/js/runtime~main.699ce923.js",
+    "runtime~main.js.map": "/CalligraphyHelper/static/js/runtime~main.699ce923.js.map",
+    "static/js/2.b41502e9.chunk.js": "/CalligraphyHelper/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/CalligraphyHelper/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/CalligraphyHelper/index.html",
+    "precache-manifest.ad6659affc38914bdb2090420203165f.js": "/CalligraphyHelper/precache-manifest.ad6659affc38914bdb2090420203165f.js",
+    "service-worker.js": "/CalligraphyHelper/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/CalligraphyHelper/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/CalligraphyHelper/static/media/logo.5d5d9eef.svg"
+  }
+}
